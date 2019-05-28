@@ -1,0 +1,2 @@
+from .function_approximator import FunctionApproximator, online_compatible
+from .tf_function_approximators import tfFunctionApproximator, tfMLPFunctionApproximator
