@@ -6,7 +6,7 @@ Code for reproducing the results in the paper: Predictor-Corrector Policy Optimi
 Tested in Ubuntu 16.04 and Ubuntu 18.04 with python 3.5, 3.6.
 
 #### Install rlfamily and most of the requirements ####
-Preare python3 virtual environment:
+Prepare python3 virtual environment:
 ```
 sudo apt-get install python3-pip
 sudo pip3 install virtualenv
