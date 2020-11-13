@@ -5,6 +5,6 @@ scikit-learn
 joblib
 GitPython
 
-tensorflow==1.12.1
+tensorflow==2.3.1
 pybullet
 
